@@ -1,0 +1,7 @@
+.gradient{
+    background: linear-gradient(to right, #3F5EFB, #FC466B, #3F5EFB, #FC466B);
+    background-clip: text;
+    color: rgb(48, 44, 44);
+    font-size: 4rem;
+    font-weight: bold;
+}
